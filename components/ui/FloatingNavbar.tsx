@@ -31,7 +31,7 @@ export const FloatingNav = ({
             setVisible(false);
         }
     });
-
+    // Click handler for mouse event in navbar
     const handleClick = (
         e: React.MouseEvent<HTMLAnchorElement>,
         href: string

@@ -29,7 +29,7 @@ export const Spotlight = ({ className, fill }: SpotlightProps) => {
         ></ellipse>
       </g>
       <defs>
-        <filter
+        <filter 
           id="filter"
           x="0.860352"
           y="0.838989"
